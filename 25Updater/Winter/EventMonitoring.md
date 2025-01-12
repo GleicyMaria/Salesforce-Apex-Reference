@@ -15,3 +15,8 @@ O Event Monitoring agora possui uma camada gratuita que permite rastrear e soluc
 |-------------------------------|-------------------------------------------------------|-------------------|
 | Developer Edition             | Todos os tipos de logs                                | 1 dia             |
 | Enterprise, Unlimited, Performance | Login/logout, uso total de APIs e ativos externos inseguros | 1 dia             |
+
+Aprenda sobre no  [Traihead](https://trailhead.salesforce.com/pt-BR/content/learn/modules/event_monitoring/event_monitoring_intro).
+
+Para mais informações, consulte a [documentação oficial do Salesforce](https://help.salesforce.com/s/articleView?id=release-notes.rn_apex_freetier_eventmonitoring.htm&release=252&type=5).
+

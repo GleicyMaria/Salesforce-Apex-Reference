@@ -16,3 +16,4 @@ A Salesforce introduziu modificadores que simplificam a configuração de açõe
 
 Esses modificadores estão disponíveis para todas as edições do Salesforce.
 
+Para mais informações, consulte a [documentação oficial do Salesforce](https://help.salesforce.com/s/articleView?id=release-notes.rn_apex_classes_annotation_InvocableVariable.htm&release=250&type=5).

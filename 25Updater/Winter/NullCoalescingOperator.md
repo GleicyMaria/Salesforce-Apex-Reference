@@ -21,3 +21,5 @@ System.debug(saudacao); // Saída: Usuário
 - Elimina verificações explícitas de nulos.
 - Reduz a verbosidade do código.
 - Facilita a leitura e manutenção.
+
+Para mais informações, consulte a [documentação oficial do Salesforce](https://help.salesforce.com/s/articleView?id=release-notes.rn_apex_NullCoalescingOper.htm&release=248&type=5).

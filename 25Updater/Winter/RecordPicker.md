@@ -16,4 +16,8 @@ O `lightning-record-picker` permite buscar e selecionar registros de forma rápi
 ## Benefícios
 - Suporte para busca de até 100 registros.
 - Mensagens de erro claras para configurações inválidas.
-- Uso offline com adaptador GraphQL.
+
+Para mais informações, consulte a [documentação oficial do Salesforce](https://help.salesforce.com/s/articleView?id=release-notes.rn_lwc_record_picker_ga.htm&release=248&type=5).  
+
+Para mais informações, consulte a [documentação oficial do Componente ](https://developer.salesforce.com/docs/component-library/bundle/lightning-record-picker/documentation).
+

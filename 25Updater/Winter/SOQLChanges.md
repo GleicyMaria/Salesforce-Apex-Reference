@@ -11,3 +11,4 @@ A atualização Winter '25 introduz mudanças nas mensagens de erro do SOQL que 
 - Revise e atualize seu código Apex que depende de mensagens de erro SOQL.
 - Garanta que seu código funcione com as mensagens de erro atualizadas.
 
+Para mais informações, consulte a [documentação oficial do Salesforce](https://help.salesforce.com/s/articleView?id=release-notes.rn_apex_soql.htm&release=252&type=5).

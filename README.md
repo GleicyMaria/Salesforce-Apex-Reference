@@ -10,7 +10,7 @@ Este repositório contém informações e exemplos úteis para desenvolvimento e
 
 3. [Atualizações do Salesforce](#atualizações-do-salesforce)
    - [Winter '25 Updates](#winter-25-updates)
-     - [Event Monitoring](./25Updater/Winter/Winter/EventMonitoring.md)
+     - [Event Monitoring](./25Updater/Winter/EventMonitoring.md)
      - [SOQL Changes](./25Updater/Winter/SOQLChanges.md)
      - [Invocable Actions](./25Updater/Winter/InvocableActions.md)
      - [LWC Enhancements](./25Updater/Winter/LWCEnhancements.md)

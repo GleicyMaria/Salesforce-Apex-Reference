@@ -1,7 +1,3 @@
-Com essas pastas organizadas, você pode ajustar o índice no seu README.md para refletir a nova estrutura. Aqui está como ele pode ficar:
-
-markdown
-Copiar código
 # Salesforce Apex Reference
 
 Este repositório contém informações e exemplos úteis para desenvolvimento em Apex no Salesforce.

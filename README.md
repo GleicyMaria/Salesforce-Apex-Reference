@@ -28,12 +28,7 @@ Este repositório foi criado para ser um apêndice de referência com informaç�
 ## Iterable
 
 Encontre exemplos práticos e explicações detalhadas sobre como usar o padrão `Iterable` no Apex. 
-[Leia mais](./Iterable/README.md).
-
-## SOQL
-
-Saiba como as mudanças no SOQL no Winter '25 podem impactar o código Apex e veja exemplos de como adaptar seu código. 
-[Leia mais](./SOQL/SOQLChanges.md).
+[Leia mais](./Iterable/Iterable.md).
 
 ## Atualizações do Salesforce
 

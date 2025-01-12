@@ -10,9 +10,9 @@ Este repositório contém informações e exemplos úteis para desenvolvimento e
 
 3. [Atualizações do Salesforce](#atualizações-do-salesforce)
    - [Winter '25 Updates](#winter-25-updates)
-     - [Event Monitoring](./25Updater/25Updater/Winter/Winter/EventMonitoring.md)
-     - [SOQL Changes](./25Updater/25Updater/Winter/SOQLChanges.md)
-     - [Invocable Actions](./25Updater/25Updater/Winter/InvocableActions.md)
+     - [Event Monitoring](./25Updater/Winter/Winter/EventMonitoring.md)
+     - [SOQL Changes](./25Updater/Winter/SOQLChanges.md)
+     - [Invocable Actions](./25Updater/Winter/InvocableActions.md)
      - [LWC Enhancements](./25Updater/Winter/LWCEnhancements.md)
      - [Record Picker](./25Updater/Winter/RecordPicker.md)
      - [Data Cloud Flows](./25Updater/Winter/DataCloudFlows.md)
@@ -38,9 +38,9 @@ Saiba como as mudanças no SOQL no Winter '25 podem impactar o código Apex e ve
 ## Atualizações do Salesforce
 
 ## Winter '25 Updates
-- **[Event Monitoring](./25Updater/25Updater/Winter/EventMonitoring.md)**: Monitoramento gratuito de exceções inesperadas no Apex.
-- **[SOQL Changes](./25Updater/25Updater/Winter/SOQLChanges.md)**: Alterações nas mensagens de erro do SOQL.
-- **[Invocable Actions](./25Updater/25Updater/Winter/InvocableActions.md)**: Modificadores `defaultValue` e `placeholderText`.
+- **[Event Monitoring](./25Updater/Winter/EventMonitoring.md)**: Monitoramento gratuito de exceções inesperadas no Apex.
+- **[SOQL Changes](./25Updater/Winter/SOQLChanges.md)**: Alterações nas mensagens de erro do SOQL.
+- **[Invocable Actions](./25Updater/Winter/InvocableActions.md)**: Modificadores `defaultValue` e `placeholderText`.
 - **[LWC Enhancements](./25Updater/Winter/LWCEnhancements.md)**: Melhorias na API do Lightning Web Components.
 - **[Record Picker](./25Updater/Winter/RecordPicker.md)**: Novo componente para busca de registros.
 - **[Data Cloud Flows](./25Updater/Winter/DataCloudFlows.md)**: Ferramenta de debug para fluxos.

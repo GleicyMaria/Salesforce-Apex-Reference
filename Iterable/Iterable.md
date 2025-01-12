@@ -77,5 +77,7 @@ O código completo está disponível no arquivo [`PaginatedIterable.cls`](./Pagi
 
 O `Iterable` é uma ferramenta poderosa no Apex para criar coleções personalizadas que podem ser percorridas facilmente em um loop `for`. Ele ajuda a organizar seu código, encapsular lógica e melhorar a legibilidade, sendo especialmente útil em casos de uso como filtrar dados ou paginar resultados.
 
+Para mais informações, consulte a [documentação oficial do Salesforce](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_classes_iterable.htm).
+
 Para mais informações, consulte a [documentação oficial do Salesforce](https://help.salesforce.com/s/articleView?id=release-notes.rn_apex_iterator_foreach.htm&release=246&type=5).
 

@@ -41,3 +41,11 @@ Este repositório contém um guia prático e didático para auxiliar no entendim
    - [⚙️ Como Atribuir Permissões a um Usuário](ConfigureServiceAgentManagers.md#️-como-atribuir-permissões-a-um-usuário)
    - [🎯 Conclusão](ConfigureServiceAgentManagers.md#-conclusão)
 Para mais detalhes, consulte os tópicos dentro do guia principal. 
+
+5. [Escalar Conversas para um Representante de Serviço com Omni-Channel](EscalateCasesWithOmini-Channel.md)
+   - [📌 Visão Geral](EscalateCasesWithOmini-Channel.md#-visão-geral)
+   - [🔹 Permissões Necessárias](EscalateCasesWithOmini-Channel.md#-permissões-necessárias)
+   - [⚙️ Como Configurar a Escalação de Conversas](EscalateCasesWithOmini-Channel.md#️-como-configurar-a-escalação-de-conversas)
+   - [🚀 Configuração Guiada do Omni-Channel para Roteamento de Casos](EscalateCasesWithOmini-Channel.md#-configuração-guiada-do-omni-channel-para-roteamento-de-casos)
+   - [🔧 O Que É Criado Durante o Setup Flow?](EscalateCasesWithOmini-Channel.md#-o-que-é-criado-durante-o-setup-flow)
+   - [📌 O Que Fazer Depois?](EscalateCasesWithOmini-Channel.md#-o-que-fazer-depois)

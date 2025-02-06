@@ -80,5 +80,7 @@ Agora que o Omni-Channel está configurado:
 
 Para mais personalizações, consulte a documentação oficial do Salesforce. 🚀  
 
-- **Documentação do Salesforce** : [Escalate Conversations to a Service Rep] (https://help.salesforce.com/s/articleView?id=service.service_agent_escalation.htm&type=5)
- - **Documentação do Salesforce**: [Guided Setup Flow for Routing Cases with Omni-Channel] (https://help.salesforce.com/s/articleView?id=service.console_lex_service_setup_omnichannel.htm&type=5)
+- **Documentação do Salesforce**: [Escalate Conversations to a Service Rep](https://help.salesforce.com/s/articleView?id=service.service_agent_escalation.htm&type=5)
+
+- **Documentação do Salesforce**: [Guided Setup Flow for Routing Cases with Omni-Channel](https://help.salesforce.com/s/articleView?id=service.console_lex_service_setup_omnichannel.htm&type=5)
+
